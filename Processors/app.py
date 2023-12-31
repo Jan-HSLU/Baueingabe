@@ -109,8 +109,7 @@ def dashboard():
 
     df = pd.DataFrame(data)
 
-    fig = px.bar(df, x='Typ', y='Anzahl Parkplätze', color='Kategorie', barmode='group',
-                color_discrete_map={'Ist': 'blue', 'Soll': 'lightblue'})
+    fig = px.bar(df, x='Typ', y='Anzahl Parkplätze', color='Kategorie', barmode='group')
 
     st.plotly_chart(fig, use_container_width=True)
 
