@@ -5,3 +5,4 @@ plotly
 shapely
 ifcopenshell==0.7.0.240627
 openai
+mathutils --no-binary :all:
