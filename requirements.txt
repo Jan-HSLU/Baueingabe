@@ -5,4 +5,3 @@ plotly
 shapely
 ifcopenshell==0.7.0.240627
 openai
-mathutils==3.3.0
