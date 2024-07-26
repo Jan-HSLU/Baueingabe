@@ -3,6 +3,5 @@ numpy
 pandas
 plotly
 shapely
-ifcopenshell==0.7.0.240627
+ifcopenshell==0.7.0.231018
 openai
-mathutils --no-binary :all:
