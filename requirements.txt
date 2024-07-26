@@ -3,5 +3,5 @@ numpy
 pandas
 plotly
 shapely
-ifcopenshell==0.7.0.231018
+ifcopenshell==0.7.0.240406
 openai
